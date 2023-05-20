@@ -15,7 +15,6 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 Para acessar o projeto visualizar o resultado do projeto, clique [AQUI](https://diegofolieni.github.io/nlw-spacetime-explorer/)
 
 ## 🏷️: Layout
->>>>>>> a2996b60df8893ee267e47e263187b79741b681c
 Você pode visualizar o layout do projeto através
 [desse link](https://www.figma.com/community/file/1240071097028170811)
 É necessário ter uma conta no [Figma](https://figma.com)
